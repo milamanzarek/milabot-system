@@ -1,0 +1,45 @@
+# Privacy Policy for MilaBot / Политика конфиденциальности MilaBot
+
+**Effective Date:** April 24, 2026
+**Дата вступления в силу:** 24 апреля 2026 г.
+
+---
+
+## 1. Introduction / Введение
+This Privacy Policy describes how MilaBot (@gemma4_powered_milabot) handles your data. This bot operates as part of a personal AI infrastructure ("Triple G") and is governed by the "Emerald Green" System Law.
+
+Эта Политика конфиденциальности описывает, как MilaBot (@gemma4_powered_milabot) обрабатывает ваши данные. Бот работает как часть персональной ИИ-инфраструктуры (Triple G) и регулируется системным законом «Изумрудный стандарт».
+
+## 2. Data Collection / Сбор данных
+* **User Data:** We collect your Telegram User ID, username, and any text or media you send directly to the bot for processing.
+* **Logs:** System logs may record technical interaction details to ensure the "Machine Room" logic operates correctly.
+
+* **Данные пользователя:** Мы собираем ваш Telegram User ID, имя пользователя и любые текстовые или медиа-файлы, которые вы отправляете боту для обработки.
+* **Логи:** Системные журналы могут фиксировать технические детали взаимодействия для обеспечения корректной работы логики «Машинного зала».
+
+## 3. Data Usage & The "Emerald Green" Law / Использование данных и «Изумрудный стандарт»
+* **Processing:** Data is used exclusively to provide agentic services: summarization (Riposte), indexing (Librarian), and voice-to-vault transitions.
+* **Sovereignty:** We never sell your data or share it with third-party advertisers. 
+* **Infrastructure:** All data processing occurs within private Google Cloud (GCP) instances or local hardware (Gemma 4).
+
+* **Обработка:** Данные используются исключительно для предоставления агентских услуг: суммаризации (Рипост), индексации (Архивист) и транскрибации голоса в хранилище.
+* **Суверенитет:** Мы никогда не продаем ваши данные и не передаем их сторонним рекламодателям.
+* **Инфраструктура:** Вся обработка данных происходит в частных инстансах Google Cloud (GCP) или на локальном оборудовании (Gemma 4).
+
+## 4. Third-Party Services / Сторонние сервисы
+While processing happens in a private stack, MilaBot utilizes Google Cloud APIs (Gemini, Speech-to-Text) and Telegram's infrastructure. These providers handle data according to their respective privacy policies.
+
+Несмотря на то, что обработка происходит в приватном стеке, MilaBot использует Google Cloud API (Gemini, Speech-to-Text) и инфраструктуру Telegram. Эти провайдеры обрабатывают данные в соответствии со своими политиками конфиденциальности.
+
+## 5. Your Rights / Ваши права
+You can request the deletion of your interaction history by contacting the administrator or using the provided bot commands (where available).
+
+Вы можете запросить удаление истории ваших взаимодействий, связавшись с администратором или используя соответствующие команды бота (если они доступны).
+
+## 6. Contact / Контакты
+For matters regarding System Law or data privacy:
+По вопросам системного законодательства или конфиденциальности данных:
+**Admin/System Integrator:** Kamilla G. (@MilaManzarek)
+**Email:** milamanzarek@gmail.com
+
+---
